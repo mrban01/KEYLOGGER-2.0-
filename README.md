@@ -1,4 +1,4 @@
-# Keylogger 2. con telegram
+# Keylogger 2.0 con telegram
 
 Este proyecto Python registra las teclas presionadas y envía un resumen periódico a través de Telegram.
 En esta nueva versión, el keylogger se puede instalar como un programa más en una pc y capturar cada tecla sin que la víctima se entere.
